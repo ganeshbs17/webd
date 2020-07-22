@@ -4,13 +4,13 @@
 
 ## Assignments
 
-* [Module 2] (https://ganeshbs17.github.io/webd/mod2-soln/)
+* [Module 2] https://ganeshbs17.github.io/webd/mod2-soln/
 
-* [Module 3] (https://ganeshbs17.github.io/webd/mod3-soln/)
+* [Module 3] https://ganeshbs17.github.io/webd/mod3-soln/
 
-* [Module 4] (https://ganeshbs17.github.io/webd/mod4-soln/)
+* [Module 4] https://ganeshbs17.github.io/webd/mod4-soln/
 
-* [Module 5] (https://ganeshbs17.github.io/webd/mod5-soln/)
+* [Module 5] https://ganeshbs17.github.io/webd/mod5-soln/
 
 
 
